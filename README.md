@@ -1,4 +1,5 @@
 # Neov-Agent
+![App Screenshot](neov.png)
 
 # Steps to Run the .py App
 1. Create a Virtual Environment
