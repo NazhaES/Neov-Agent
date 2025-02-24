@@ -5,7 +5,8 @@
 ```sh
     python -m venv .venv
 ```
-2. Activate the Virtual Environment ␣␣  
+2. Activate the Virtual Environment 
+
 **On Windows (Command Prompt)**
 ```sh 
     .venv/Scripts/activate
